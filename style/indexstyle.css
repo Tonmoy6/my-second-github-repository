@@ -14,3 +14,9 @@ ol{
     font-size: 50px;
     font-family: serif;
 }
+div{
+    background-color: brown;
+}
+#nojrul{
+    border-image: auto;
+}
